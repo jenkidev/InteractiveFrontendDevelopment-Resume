@@ -112,7 +112,7 @@ img {
 }
 
 .repo-list ul li {
-  display: block;
+  display: inline-flex;
 }
 
 .repo-list ul li a {
